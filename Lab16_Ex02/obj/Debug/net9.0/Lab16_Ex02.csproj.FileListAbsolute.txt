@@ -1,0 +1,15 @@
+D:\natthanitcha_work\OOP (FRI)\LAB 16\Lab16-CSharp-Abstract-Members\Lab16_Ex02\bin\Debug\net9.0\Lab16_Ex02.exe
+D:\natthanitcha_work\OOP (FRI)\LAB 16\Lab16-CSharp-Abstract-Members\Lab16_Ex02\bin\Debug\net9.0\Lab16_Ex02.deps.json
+D:\natthanitcha_work\OOP (FRI)\LAB 16\Lab16-CSharp-Abstract-Members\Lab16_Ex02\bin\Debug\net9.0\Lab16_Ex02.runtimeconfig.json
+D:\natthanitcha_work\OOP (FRI)\LAB 16\Lab16-CSharp-Abstract-Members\Lab16_Ex02\bin\Debug\net9.0\Lab16_Ex02.dll
+D:\natthanitcha_work\OOP (FRI)\LAB 16\Lab16-CSharp-Abstract-Members\Lab16_Ex02\bin\Debug\net9.0\Lab16_Ex02.pdb
+D:\natthanitcha_work\OOP (FRI)\LAB 16\Lab16-CSharp-Abstract-Members\Lab16_Ex02\obj\Debug\net9.0\Lab16_Ex02.GeneratedMSBuildEditorConfig.editorconfig
+D:\natthanitcha_work\OOP (FRI)\LAB 16\Lab16-CSharp-Abstract-Members\Lab16_Ex02\obj\Debug\net9.0\Lab16_Ex02.AssemblyInfoInputs.cache
+D:\natthanitcha_work\OOP (FRI)\LAB 16\Lab16-CSharp-Abstract-Members\Lab16_Ex02\obj\Debug\net9.0\Lab16_Ex02.AssemblyInfo.cs
+D:\natthanitcha_work\OOP (FRI)\LAB 16\Lab16-CSharp-Abstract-Members\Lab16_Ex02\obj\Debug\net9.0\Lab16_Ex02.csproj.CoreCompileInputs.cache
+D:\natthanitcha_work\OOP (FRI)\LAB 16\Lab16-CSharp-Abstract-Members\Lab16_Ex02\obj\Debug\net9.0\Lab16_Ex02.sourcelink.json
+D:\natthanitcha_work\OOP (FRI)\LAB 16\Lab16-CSharp-Abstract-Members\Lab16_Ex02\obj\Debug\net9.0\Lab16_Ex02.dll
+D:\natthanitcha_work\OOP (FRI)\LAB 16\Lab16-CSharp-Abstract-Members\Lab16_Ex02\obj\Debug\net9.0\refint\Lab16_Ex02.dll
+D:\natthanitcha_work\OOP (FRI)\LAB 16\Lab16-CSharp-Abstract-Members\Lab16_Ex02\obj\Debug\net9.0\Lab16_Ex02.pdb
+D:\natthanitcha_work\OOP (FRI)\LAB 16\Lab16-CSharp-Abstract-Members\Lab16_Ex02\obj\Debug\net9.0\Lab16_Ex02.genruntimeconfig.cache
+D:\natthanitcha_work\OOP (FRI)\LAB 16\Lab16-CSharp-Abstract-Members\Lab16_Ex02\obj\Debug\net9.0\ref\Lab16_Ex02.dll
